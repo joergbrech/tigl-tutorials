@@ -1,4 +1,4 @@
-name: py3
+name: tigl-tutorials
 channels:
 - dlr-sc
 dependencies:
@@ -6,3 +6,5 @@ dependencies:
 - tigl3
 - pythreejs
 - numpy
+- calysto_bash
+- cpacs2to3
