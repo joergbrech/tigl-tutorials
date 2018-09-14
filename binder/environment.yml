@@ -5,6 +5,7 @@ dependencies:
 - python=3.5
 - tigl3
 - cpacs2to3
+- jupyterlab
 - pythreejs
 - numpy
 - pip:
